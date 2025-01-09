@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key></key>
+	<string></string>
+    <key>NSDownloadsFolderUsageDescription</key>
+    <string>Requires access to your documents to use files.</string>
+	<key>NSFileProviderPresenceUsageDescription</key>
+	<string>Requires access to your documents to use files.</string>
+	<key>NSFileProviderDomainUsageDescription</key>
+	<string>Requires access to your documents to use files.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>Requires access to your documents to use files.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Requires access to your camera to use photos.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Requires access to your photo library for selecting photos.</string>
+</dict>
+</plist>
